@@ -85,5 +85,28 @@ My current notice period is **3 months**, and I am currently working with my org
 
 But, I can discuss the **early release** with my current employer, as i have already discussed my transition plans internally. do we have **notice-period buyout option**. 
 
+```
+```
 
+### Q.8 Strength, weakness, career goals.
+
+#### Strength: 
+
+One of my strengths is that I am **quick to learn and adapt to new technologies**. For example, I moved from mainly manual testing to automation and developed hands-on experience with Playwright and TypeScript.
+
+I would also say **attention to detail** is one of my strengths. In testing, I try to understand the requirement properly and cover different scenarios instead of only testing the basic flow.
+
+Another strength is **ownership**. If I find an issue or an automation failure, I try to investigate it properly and take it to closure rather than just reporting it and moving on.
+
+#### weakness:
+
+One area I am working on is that sometimes I **spend more time than necessary analyzing a problem**, especially when I want to understand the root cause completely.
+
+I realized that this can affect my time management, so now I first prioritize the impact and urgency of the task, and then decide how much time I should spend investigating it. This has helped me become more efficient while still maintaining the quality of my work.
+
+#### career goals:
+
+My short-term goal is to become **stronger in automation testing**, especially in Playwright, TypeScript, API testing, and test framework development. I also want to improve my understanding of the overall QA process rather than focusing only on writing test scripts.
+
+In the long term, I want to take **more ownership of testing activities**, contribute to framework improvements and automation strategy, and grow into a senior QA or automation role where I can also help and guide other team members.
 
