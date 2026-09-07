@@ -38,3 +38,52 @@ As a QA, I work on both **new and existing functionalities**. For new features, 
 One of the challenges is the complexity of CAD workflows. For example, I test functionality with simple and complex parts, assemblies, and different application modes such as EIP and CIP.
 
 For automation, I mainly use **Playwright and TypeScript** to automate end-to-end workflows, including complex and sometimes slow CAD operations.
+
+```
+```
+
+### Q.4 Why are you looking for a change?
+
+I am looking for a change mainly because I want to **grow further in my career and take on more challenging responsibilities**.
+
+In my current role, I have gained good experience in both manual and automation testing, especially with **Playwright and TypeScript**. Now I want to work in an environment where I can further strengthen my automation skills, work on more complex projects, and get broader exposure to the testing process.
+
+So, I am looking for an opportunity that offers **better learning, career growth, and more challenging work**.
+
+```
+```
+
+### Q.5 Why do you want to join our company?
+
+I want to join your company because I see it as a good opportunity to **learn, grow, and take on more challenging responsibilities**.
+
+I believe my experience in both manual and automation testing, especially with **Playwright and TypeScript**, matches well with the role. I am also looking for an environment where I can work on challenging projects, improve my technical skills, and contribute to the team.
+
+Overall, I feel this opportunity can provide good **career growth and learning**, while allowing me to contribute with my existing experience.
+
+```
+```
+
+### Q.6 Why should we hire you?
+
+I believe you should hire me because I have hands-on experience in both **manual and automation testing**, and I can contribute in both areas.
+
+I have around **2.5 years of experience** in testing, with practical experience in **Playwright, TypeScript, API testing, SQL, Git, and GitLab**. I also have experience understanding requirements, creating test cases, reporting defects, performing integration and regression testing, and developing and maintaining automation scripts.
+
+Along with my technical skills, I am comfortable working in an Agile team and collaborating with developers and other team members.
+
+I believe I can quickly understand the product, contribute to the team, and at the same time continue learning and improving my skills.
+
+```
+```
+
+### Q.7 Current CTC, Expected CTC, Notice period.
+
+My current CTC is **₹4.4 LPA**. Based on my experience and the responsibilities of the role, I am expecting around ₹7.2 to ₹7.6 LPA. 
+
+My current notice period is **3 months**, and I am currently working with my organization.
+
+But, I can discuss the **early release** with my current employer, as i have already discussed my transition plans internally. do we have **notice-period buyout option**. 
+
+
+
