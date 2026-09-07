@@ -27,3 +27,14 @@ Overall, my role involves understanding requirements, testing the functionality 
 
 ```
 ```
+### Q.3 Explain your current project.
+
+Currently, I am working on **Designcenter X**, Siemens' cloud-based CAD solution, which is used for designing 3D parts and assemblies, including sheet-metal components, and creating 2D engineering drawings from them.
+
+In my project, I mainly test functionalities related to **holes and datum features in the 3D environment**, and annotations such as **Datum Feature Symbol, Feature Control Frame, and Hole and Thread Callout** in the 2D environment.
+
+As a QA, I work on both **new and existing functionalities**. For new features, I understand the acceptance criteria from user stories, create test cases and test data, and perform functional and integration testing. I also perform regression testing to make sure existing functionality is not impacted by new changes.
+
+One of the challenges is the complexity of CAD workflows. For example, I test functionality with simple and complex parts, assemblies, and different application modes such as EIP and CIP.
+
+For automation, I mainly use **Playwright and TypeScript** to automate end-to-end workflows, including complex and sometimes slow CAD operations.
