@@ -1,6 +1,6 @@
 ### Q.1 Tell me about yourself.
 
-Hi, my name is Aniket Pawar. I have around 2.5 years of experience in software testing, with experience in both manual and automation testing.
+Hi, my self is Aniket Pawar. I have around 2.5 years of experience as a manual and automation testing.
 
 Currently, I am working as a QA Engineer at Siemens Digital Industries in Pune, through Ncircle Tech, which is my payroll company.
 
