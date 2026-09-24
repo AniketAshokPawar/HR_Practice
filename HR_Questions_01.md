@@ -2,7 +2,7 @@
 
 Hi, my name is Aniket Pawar. I have around 2.5 years of experience in software testing, with experience in both manual and automation testing.
 
-Currently, I am working as a Manual and Automation Test Engineer at Siemens Digital Industries in Pune, through Ncircle Tech, which is my payroll company.
+Currently, I am working as a QA Engineer at Siemens Digital Industries in Pune, through Ncircle Tech, which is my payroll company.
 
 I am currently working on Designcenter X, which is the cloud version of NX, a CAD software used for designing industrial components.
 
