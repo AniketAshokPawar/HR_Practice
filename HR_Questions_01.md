@@ -23,8 +23,6 @@ In manual testing, based on the acceptance criteria, I create test cases and pre
 
 In automation testing, I work with Playwright and TypeScript. I create new end-to-end automation scripts for new functionalities. I also analyze and fix existing automation scripts when they fail.
 
-Overall, my role involves understanding requirements, testing the functionality manually, automating important end-to-end workflows, reporting and retesting defects, and supporting regression testing to ensure the quality of the product.
-
 ```
 ```
 ### Q.3 Explain your current project.
