@@ -1,6 +1,6 @@
 ### Q.1 Tell me about yourself.
 
-Hi, my self is Aniket Pawar. I have around 2.5 years of experience as a manual and automation testing.
+Hi, my self Aniket Pawar. I have around 2.5 years of experience as a manual and automation tester.
 
 Currently, I am working as a QA Engineer at Siemens Digital Industries in Pune, through Ncircle Tech, which is my payroll company.
 
@@ -10,7 +10,7 @@ I have worked with tools such as Playwright, Typescript, Git, GitLab, Allure, an
 
 I completed my BE in Mechanical Engineering in 2022 from Sinhgad College, Pune.
 
-Currently, I am looking for an opportunity where I can further enhance my skills in software testing and automation and take on more challenging responsibilities.
+Currently, I am looking for an opportunity where I can further enhance my skills in software testing and automation.
 ```
 ```
 ### Q.2 Current role & responsibilities.
