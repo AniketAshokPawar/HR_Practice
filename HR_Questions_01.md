@@ -6,7 +6,7 @@ Currently, I am working as a QA Engineer at Siemens Digital Industries in Pune, 
 
 I am currently working on Designcenter X, which is the cloud version of NX, a CAD software used for designing industrial components.
 
-I have worked with tools such as Playwright, Typescript, Git, GitLab, Allure, and Polarion. I have basic knowledge of SQL as well.
+I have worked with tools and technologies such as Playwright, Typescript, Git, GitLab, Allure, and Polarion. I have basic knowledge of SQL as well.
 
 I completed my BE in Mechanical Engineering in 2022 from Sinhgad College, Pune.
 
