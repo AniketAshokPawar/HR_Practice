@@ -27,13 +27,13 @@ In automation testing, I work with Playwright and TypeScript. I create new end-t
 ```
 ### Q.3 Explain your current project.
 
-Currently, I am working on **Designcenter X**, Siemens' cloud-based CAD solution, which is used for designing 3D parts and assemblies, including sheet-metal components, and creating 2D engineering drawings from them.
+Currently, I am working on **Designcenter X**, cloud version of NX, a CAD software, which is used for designing industrial components.
 
-In my project, I mainly test functionalities related to **holes and datum features in the 3D environment**, and annotations such as **Datum Feature Symbol, Feature Control Frame, and Hole and Thread Callout** in the 2D environment.
+In my project, I mainly test functionalities like **holes and datum plane in the 3D environment**, and annotations such as **Datum Feature Symbol, Feature Control Frame, and Hole and Thread Callout** in the 2D environment.
 
 As a QA, I work on both **new and existing functionalities**. For new features, I understand the acceptance criteria from user stories, create test cases and test data, and perform functional and integration testing. I also perform regression testing to make sure existing functionality is not impacted by new changes.
 
-One of the challenges is the complexity of CAD workflows. For example, I test functionality with simple and complex parts, assemblies, and different application modes such as EIP and CIP.
+One of the challenge of this project is the complexity of CAD workflows. For example, Testing the functionality with simple and complex parts, assemblies, and different application modes such as EIP and CIP, also testing with imported files.
 
 For automation, I mainly use **Playwright and TypeScript** to automate end-to-end workflows, including complex and sometimes slow CAD operations.
 
@@ -42,11 +42,7 @@ For automation, I mainly use **Playwright and TypeScript** to automate end-to-en
 
 ### Q.4 Why are you looking for a change?
 
-I am looking for a change mainly because I want to **grow further in my career and take on more challenging responsibilities**.
-
-In my current role, I have gained good experience in both manual and automation testing, especially with **Playwright and TypeScript**. Now I want to work in an environment where I can further strengthen my automation skills, work on more complex projects, and get broader exposure to the testing process.
-
-So, I am looking for an opportunity that offers **better learning, career growth, and more challenging work**.
+In my current role, I have gained good experience in both manual and automation testing, especially with **Playwright and TypeScript**. Now I want to work in an environment where I can further strengthen my automation skills, work on more complex projects.
 
 ```
 ```
@@ -66,7 +62,7 @@ Overall, I feel this opportunity can provide good **career growth and learning**
 
 I believe you should hire me because I have hands-on experience in both **manual and automation testing**, and I can contribute in both areas.
 
-I have around **2.5 years of experience** in testing, with practical experience in **Playwright, TypeScript, API testing, SQL, Git, and GitLab**. I also have experience understanding requirements, creating test cases, reporting defects, performing integration and regression testing, and developing and maintaining automation scripts.
+I have around **2.5 years of experience** in testing, with practical experience in **Playwright, TypeScript, Git, and GitLab**. I also have experience of understanding requirements, creating test cases, reporting defects, performing integration and regression testing, and developing and maintaining automation scripts.
 
 Along with my technical skills, I am comfortable working in an Agile team and collaborating with developers and other team members.
 
@@ -90,7 +86,7 @@ But, I can discuss the **early release** with my current employer, as i have alr
 
 #### Strength: 
 
-One of my strengths is that I am **quick to learn and adapt to new technologies**. For example, I moved from mainly manual testing to automation and developed hands-on experience with Playwright and TypeScript.
+One of my strengths is that I am **quick to learn and adapt to new technologies**. For example, I learned different techniques quickly to automate cad workflows from automating normal web application.
 
 I would also say **attention to detail** is one of my strengths. In testing, I try to understand the requirement properly and cover different scenarios instead of only testing the basic flow.
 
@@ -104,7 +100,7 @@ I realized that this can affect my time management, so now I first prioritize th
 
 #### career goals:
 
-My short-term goal is to become **stronger in automation testing**, especially in Playwright, TypeScript, API testing, and test framework development. I also want to improve my understanding of the overall QA process rather than focusing only on writing test scripts.
+My short-term goal is to become **stronger in automation testing**, especially in Playwright, TypeScript, API testing, and test framework development. 
 
 In the long term, I want to take **more ownership of testing activities**, contribute to framework improvements and automation strategy, and grow into a senior QA or automation role where I can also help and guide other team members.
 
